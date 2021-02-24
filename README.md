@@ -1,4 +1,4 @@
-# awesome-eda {ignore=true}
+# awesome-eda
 
 A collection for event-driven architecture
 
@@ -6,13 +6,13 @@ A collection for event-driven architecture
 
 <!-- code_chunk_output -->
 
-- [awesome-eda {ignore=true}](#awesome-eda-ignoretrue)
-- [Tutorial](#tutorial)
-- [Video](#video)
+- [awesome-eda](#awesome-eda)
+  - [Tutorial](#tutorial)
+  - [Video](#video)
 
 <!-- /code_chunk_output -->
 
-# Tutorial
+## Tutorial
 
 - [What Is Event Driven Architecture, and When Should I Use It?](https://medium.com/swlh/what-is-event-driven-architecture-and-when-should-i-use-it-cb30ae68899a)
 
@@ -42,6 +42,6 @@ A collection for event-driven architecture
 - [Make legacy applications first-class citizens of event-driven architectures via cloud, DevOps and CDC](https://www.thoughtworks.com/insights/blog/make-legacy-applications-first-class-citizens-event-driven-architectures-cloud-devops-and)
 
 
-# Video
+## Video
 
 - [Event-Driven Architecture – Benefits and Pitfalls](https://youtu.be/ZuXqW8aKxc4)
