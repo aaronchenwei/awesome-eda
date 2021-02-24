@@ -7,10 +7,31 @@ A collection for event-driven architecture
 <!-- code_chunk_output -->
 
 - [Awesome Event-driven Architecture](#awesome-event-driven-architecture)
+  - [Definition](#definition)
+    - [Gartner](#gartner)
+    - [IBM](#ibm)
+    - [Wiki](#wikihttpsenwikipediaorgwikievent-driven_architecture)
   - [Tutorial](#tutorial)
   - [Video](#video)
 
 <!-- /code_chunk_output -->
+
+## Definition
+
+### Gartner
+
+> **Event-driven architecture (EDA)** is a design paradigm in which a software component executes in response to receiving one or more event notifications. EDA is more loosely coupled than the client/server paradigm because the component that sends the notification doesn’t know the identity of the receiving components at the time of compiling.
+
+
+### IBM
+ 
+> Event-driven architecture is an integration model built around the publication, capture, processing, and storage (or persistence) of events. Specifically, when an application or service performs an action or undergoes a change that another application or service might want to know about, it publishes an event—a record of that action or change—that another application or service can consume and process to perform one or more actions in turn.
+>
+> Event-driven architecture enables a *loose coupling* between connected applications and services—they can communicate with each other by publishing and consuming events without knowing anything about each other except the event format. This model offers significant advantages over a *request/response* architecture (or integration model), in which one application or service must request specific information from another specific application or service that is expecting the specific request.
+
+### [Wiki](https://en.wikipedia.org/wiki/Event-driven_architecture)
+
+> Event-driven architecture (EDA) is a software architecture paradigm promoting the production, detection, consumption of, and reaction to events.
 
 ## Tutorial
 
@@ -48,7 +69,13 @@ A collection for event-driven architecture
 
 - [Make legacy applications first-class citizens of event-driven architectures via cloud, DevOps and CDC](https://www.thoughtworks.com/insights/blog/make-legacy-applications-first-class-citizens-event-driven-architectures-cloud-devops-and)
 
+- [Gartner on Event-Driven Architecture: A Foundational Element of Digital Business](https://solace.com/blog/gartner-on-event-driven-architecture/)
+
+- [AWS - What is an Event-Driven Architecture?](https://aws.amazon.com/event-driven-architecture/)
+![How it works: example architecture
+](./assets/3.png)
 
 ## Video
 
+- [Martin Fowler - The Many Meanings of Event-Driven Architecture](https://youtu.be/STKCRSUsyP0)
 - [Event-Driven Architecture – Benefits and Pitfalls](https://youtu.be/ZuXqW8aKxc4)
