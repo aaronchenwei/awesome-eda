@@ -13,6 +13,7 @@ A collection for event-driven architecture
     - [Wiki](#wikihttpsenwikipediaorgwikievent-driven_architecture)
   - [Tutorial](#tutorial)
   - [Video](#video)
+  - [Book](#book)
 
 <!-- /code_chunk_output -->
 
@@ -79,3 +80,9 @@ A collection for event-driven architecture
 
 - [Martin Fowler - The Many Meanings of Event-Driven Architecture](https://youtu.be/STKCRSUsyP0)
 - [Event-Driven Architecture – Benefits and Pitfalls](https://youtu.be/ZuXqW8aKxc4)
+
+## Book
+
+- [O’Reilly - Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
+
+- [Microsoft - Exploring CQRS and Event Sourcing](https://www.microsoft.com/en-sg/download/details.aspx?id=34774)
