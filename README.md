@@ -86,3 +86,5 @@ A collection for event-driven architecture
 - [O’Reilly - Building Event-Driven Microservices](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
 
 - [Microsoft - Exploring CQRS and Event Sourcing](https://www.microsoft.com/en-sg/download/details.aspx?id=34774)
+
+- [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://en.m.wikipedia.org/wiki/Enterprise_Integration_Patterns)
